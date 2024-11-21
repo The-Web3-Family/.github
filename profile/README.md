@@ -5,12 +5,10 @@ We are an open development organization dedicated to transparency and community 
 ## Current Projects 🌟
 
 ### Democracy Mobile App  
-Enhancing democratic engagement.  
-[Repository](https://github.com/The-Web3-Family/democracy-mobile-app)
+Enhancing democratic engagement. [Repository](https://github.com/The-Web3-Family/democracy-mobile-app)
 
 ### Facility Management Mobile App  
-Streamlining facility management tasks.  
-[Repository](https://github.com/The-Web3-Family/facility-management-mobile-app)
+Streamlining facility management tasks. [Repository](https://github.com/The-Web3-Family/facility-management-mobile-app)
 
 ## Join Us 🌍
 
