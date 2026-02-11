@@ -23,12 +23,6 @@ Our process provides clarity and stops wasted spend:
 | **2. Pattern Compression** | We synthesize these signals into a clear profile of your Ideal Customer, their objections, their budget, and their language. | You get precise messaging and positioning that resonates with buyers, not just browsers. |
 | **3. Execution Matching** | Only after demand is proven, we connect you with vetted agencies, tools, or build a lean, targeted execution plan for you. | You invest in marketing that is justified by real, existing demand, not guesswork. |
 
-## Our Capabilities (Proof of Execution)
-
-Below are examples of our technical and strategic execution. We build the systems required to capitalize on the demand we uncover.
-
-*Pin your top 6 repositories here.*
-
 ---
 
 ## Ready for Clarity?
